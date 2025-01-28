@@ -1,5 +1,5 @@
+![](https://komarev.com/ghpvc/?username=Adam-CZPG)
 
-![Static Badge](https://img.shields.io/badge/Profile%20views-blue)
 
  <h1 align="center">Hi 👋, I'm Akhmadjon</h1>
 <h3 align="center">Automation and Penetration Tester from Prague.</h3>
