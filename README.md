@@ -4,7 +4,7 @@
 
 <img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Adam-CZPG"/>
 
-<img alt="top langs" align="left" width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adam-CZPG&layout=compact"/>
+<img alt="top langs" align="left" width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adam-CZPG&layout=compact"/>
 
 
 
