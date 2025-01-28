@@ -2,7 +2,9 @@
 ![Static Badge](https://img.shields.io/badge/Profile%20views-blue)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adam-CZPG&show_icons=true)](https://github.com/Adam-CZPG/github-readme-stats&show_icons=true)
+<img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Adam-CZPG"/>
+
+<img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adam-CZPG&layout=compact"/>
 
 
 Language and Tools
