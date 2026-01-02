@@ -1,23 +1,27 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Adam-CZPG&color=0078d7&style=flat-square" alt="visitor counter" />
-</p>
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Adam-CZPG&label=PROFILE%20VIEWS&color=0078d7&style=for-the-badge" alt="Adam-CZPG" />
 
 <h1 align="center">Hi 👋, I'm Akhmadjon</h1>
 <h3 align="center">Automation and Penetration Tester from Prague.</h3>
 
-<p align="center">
-  <a href="https://www.aidqs.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Site-brightgreen?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Adam-CZPG&show_icons=true&theme=default_repomap&border_radius=10" alt="Adam-CZPG stats" height="170" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Adam-CZPG&layout=compact&theme=default_repomap&border_radius=10" alt="Top Langs" height="170" />
-</p>
+<a href="https://www.aidqs.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Site-0078d7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+</a>
 
 <br/>
+<br/>
 
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Adam-CZPG&show_icons=true&theme=default&border_color=e4e2e2&hide_border=false" alt="Adam-CZPG stats" height="170" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Adam-CZPG&layout=compact&theme=default&border_color=e4e2e2&hide_border=false" alt="Top Langs" height="170" />
+</p>
+
+</div>
+
+---
+
+### 🚀 About Me:
 - 🔭 I’m currently working on **Python and SRE**
 - 🌱 I’m currently learning **SRE and Cybersecurity**
 - 👯 I’m looking to collaborate on **Automation Testing and SRE**
