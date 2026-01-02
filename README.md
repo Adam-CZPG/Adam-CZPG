@@ -1,13 +1,19 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Adam-CZPG&color=blue" alt="vistor counter" />
+  <img src="https://komarev.com/ghpvc/?username=Adam-CZPG&color=0078d7&style=flat-square" alt="visitor counter" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Akhmadjon</h1>
 <h3 align="center">Automation and Penetration Tester from Prague.</h3>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Adam-CZPG&show_icons=true&theme=radical&rank_icon=github" alt="Adam-CZPG's GitHub stats" width="48%" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adam-CZPG&layout=compact&theme=radical" alt="Top Langs" width="45%" />
+  <a href="https://www.aidqs.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Site-brightgreen?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Adam-CZPG&show_icons=true&theme=default_repomap&border_radius=10" alt="Adam-CZPG stats" height="170" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Adam-CZPG&layout=compact&theme=default_repomap&border_radius=10" alt="Top Langs" height="170" />
 </p>
 
 <br/>
@@ -15,6 +21,7 @@
 - 🔭 I’m currently working on **Python and SRE**
 - 🌱 I’m currently learning **SRE and Cybersecurity**
 - 👯 I’m looking to collaborate on **Automation Testing and SRE**
+- 🌐 Portfolio: **[aidqs.com](https://www.aidqs.com/)**
 - 📫 How to reach me **akhmadjonortikov@gmail.com**
 
 ---
