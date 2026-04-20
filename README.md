@@ -2,8 +2,8 @@
 
 <img src="https://komarev.com/ghpvc/?username=Adam-CZPG&label=PROFILE%20VIEWS&color=0078d7&style=for-the-badge" alt="Adam-CZPG" />
 
-<h1 align="center">Hi 👋, I'm Akhmadjon</h1>
-<h3 align="center">Automation and Penetration Tester from Prague.</h3>
+# Hi 👋, I'm Akhmadjon
+### 🚀 Automation and Penetration Tester | SRE Enthusiast
 
 <a href="https://www.aidqs.com/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Site-0078d7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
@@ -13,8 +13,12 @@
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Adam-CZPG&show_icons=true&theme=default&border_color=e4e2e2&hide_border=false" alt="Adam-CZPG stats" height="170" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Adam-CZPG&layout=compact&theme=default&border_color=e4e2e2&hide_border=false" alt="Top Langs" height="170" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Adam-CZPG&show_icons=true&theme=radical&border_radius=10&hide_border=true" alt="Adam-CZPG stats" height="180" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Adam-CZPG&layout=compact&theme=radical&border_radius=10&hide_border=true" alt="Top Langs" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Adam-CZPG&theme=radical&border_radius=10&hide_border=true" alt="GitHub Streak" />
 </p>
 
 </div>
@@ -26,36 +30,40 @@
 - 🌱 I’m currently learning **SRE and Cybersecurity**
 - 👯 I’m looking to collaborate on **Automation Testing and SRE**
 - 🌐 Portfolio: **[aidqs.com](https://www.aidqs.com/)**
-- 📫 How to reach me **akhmadjonortikov@gmail.com**
+- 📫 How to reach me: **[akhmadjonortikov@gmail.com](mailto:akhmadjonortikov@gmail.com)**
 
 ---
 
 ### 🤝 Connect with me:
 <p align="left">
   <a href="https://linkedin.com/in/akhmadjon-ortikov-ph-d-118657109/" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.hackerrank.com/profile/akhmadjonortikov" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="HackerRank" height="30" width="40" />
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
   </a>
 </p>
 
 ---
 
-### 🛠 Languages and Tools:
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-</p>
+### 🛠 Tech Stack:
+
+**Languages:**
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="35" height="35"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="35" height="35"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/>
+<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="35" height="35"/>
+
+**DevOps & Cloud:**
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="35" height="35"/>
+<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="35" height="35"/>
+<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="35" height="35"/>
+<img src="https://www.vectorlogo.zone/logos/amazonwebservices/amazonwebservices-icon.svg" alt="aws" width="35" height="35"/>
+<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="35" height="35"/>
+<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="35" height="35"/>
+
+**Testing & Tools:**
+<img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="35" height="35"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="35" height="35"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="35" height="35"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="35" height="35"/>
